@@ -59,8 +59,8 @@
       "check-whitespace"
     ],
     "quotemark": [
-      true,
-      "single"
+      false,
+      "double"
     ],
     "radix": true,
     "semicolon": [
